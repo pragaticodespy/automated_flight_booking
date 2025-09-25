@@ -42,6 +42,8 @@ Challenges:
 
 Selenium could not interact with the city input fields due to dynamic site behavior and overlapping page elements.
 
+https://github.com/user-attachments/assets/cdf81028-9dc0-4bf4-b907-d2c4733a8a0f
+
 Outcome:
 
 The browser launched, popups were handled, but the automation terminated at the city input stage.
@@ -57,15 +59,3 @@ Using Faker + Selenium is reliable for generating test data and practicing autom
 Result:
 
 Demonstrates successful Faker-based passenger data generation and partial browser automation.
-
-https://github.com/user-attachments/assets/cdf81028-9dc0-4bf4-b907-d2c4733a8a0f
-
-The above video shows my attempt made to automate this.
-
-## Future Improvements
-
-Use test or dummy flight booking sites to ensure full Selenium automation works end-to-end.
-
-Revisit API-based automation with correct keys and updated model availability.
-
-Add error handling for dynamic site elements and popups to improve robustness.
