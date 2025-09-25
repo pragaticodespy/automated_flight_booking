@@ -22,6 +22,9 @@ Outcome:
 
 Partially automated browser interaction, but the approach could not progress beyond the popup stage.
 
+<img width="960" height="504" alt="groq terminal" src="https://github.com/user-attachments/assets/96912edc-abe5-48e1-b657-d0d5c47cb440" />
+
+
 ## Approach 2: Using Selenium + Faker
 
 Description:
