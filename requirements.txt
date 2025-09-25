@@ -11,3 +11,4 @@ numpy
 faker
 python-dotenv
 groq
+webdriver-manager
