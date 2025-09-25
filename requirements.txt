@@ -1,0 +1,13 @@
+requests
+browser-use
+scrapybara
+playwright
+selenium
+transformers
+torch
+openai
+pandas
+numpy
+faker
+python-dotenv
+groq
